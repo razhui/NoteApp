@@ -1,3 +1,12 @@
+## Note Keeping App
+
+An app that can add and delete notes.
+
+## What I learned
+
+How to use state, spread operators, and component trees.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
